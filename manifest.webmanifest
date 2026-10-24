@@ -1,0 +1,22 @@
+{
+  "name": "Ordenia",
+  "short_name": "Ordenia",
+  "description": "Administraciones Bedoya: tareas, calendario y captura desde el celular.",
+  "lang": "es-CO",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f7f4",
+  "theme_color": "#f7f7f4",
+  "icons": [
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png" },
+    {
+      "src": "icono-mascara-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
